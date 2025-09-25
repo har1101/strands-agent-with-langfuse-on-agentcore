@@ -1,0 +1,8 @@
+# Bedrock AgentCore SDK
+bedrock-agentcore>=0.1.0
+
+# Strands Agents SDK
+strands-agents>=1.0.0
+strands-agents-tools>=0.1.5
+
+langfuse
